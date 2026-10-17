@@ -1,4 +1,4 @@
-package assdepher;
+package testee.assdepher;
 
 public class CalculaPreco {
 
